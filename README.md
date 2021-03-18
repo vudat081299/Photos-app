@@ -1,2 +1,2 @@
 # PhotosApp
-Scroll Collection View Sync.
+Scroll 2 Collection View Sync.
